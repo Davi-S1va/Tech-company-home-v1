@@ -1,0 +1,123 @@
+body{
+  background-color: rgb(197, 193, 193);
+}
+.container-fluid{
+    padding: 25px;
+    background-color:white 
+     ;
+    margin-block: -12px;
+
+   
+}
+
+/* Titulo do site */
+.navbar .navbar-brand {
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.9rem;
+  font-weight: 900;
+  color: #016fff;
+
+}
+/* Botões seleciovaeis */
+.navbar .nav-link {
+
+  color: #1057f0;
+  font-size: 24px;
+  font-weight: 400;
+  margin-top: 35px;
+  white-space: 15px;
+}
+.navbar .nav-link.active {
+  color: #1057f0;
+  font-weight: 400;
+  padding-left: 50px;
+ 
+
+}
+
+/* Cor do opção após seleção */
+.navbar .nav-link:hover {
+  color: #0cd5f0;
+}
+
+.navbar-nav .nav-item {
+  margin-left: 1rem;
+}
+.card{
+  
+  margin-left: 200px;
+  margin-top: 100px;
+  background-color: white;
+  
+}
+.card-2{
+  padding: 40px;
+  background-color: white;
+  
+}
+
+.pagination {
+  margin-top: 80px;
+  margin-block-end: 100px;
+  
+}
+/* Titulo da pagina HOME*/
+.titlepage{
+  
+  font-size: 2.9rem;
+  font-weight: 800;
+  color: #00275a;
+  margin-top: 45px;
+  margin-left: 190px;
+}
+
+.titlepage-service{
+  font-size: 2.9rem;
+  font-weight: 800;
+  color: #00275a;
+  margin-top: 24px;
+  margin-left: 19px;
+
+}
+.accordion{
+  background-color: rgb(255, 255, 255);
+  margin-top: 30px;
+}
+
+.sobre {
+  padding: 60px 20px;
+  background-color: #a8abad;
+}
+
+.sobre-container {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.sobre-container h2 {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+.sobre-container p {
+  font-size: 16px;
+  line-height: 1.6;
+  margin-bottom: 15px;
+  color: #333;
+}
+
+.btn-portfolio {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 12px 25px;
+  background-color: #0d6efd;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: 0.3s;
+}
+
+.btn-portfolio:hover {
+  background-color: #0b5ed7;
+}
