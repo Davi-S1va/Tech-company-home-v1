@@ -121,3 +121,20 @@ body{
 .btn-portfolio:hover {
   background-color: #0b5ed7;
 }
+
+.custom-control-input{
+  margin-top: 20px;
+}
+h3{
+  margin-top: 30px;
+  color: #a8abad;
+  font-size: 24px;
+  font-weight: 400;
+  margin-left: 100px;
+}
+
+.spinner-border{
+  margin-left: 190px;
+  margin-top:40px;
+  color: #a8abad;
+}
